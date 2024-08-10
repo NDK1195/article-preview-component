@@ -9,3 +9,7 @@
     font-family: "Manrope", sans-serif;
   }
 }
+
+.triangle {
+  @apply lg:after:absolute lg:after:left-1/2 lg:after:top-full lg:after:size-3 lg:after:-translate-y-1/2 lg:after:rotate-45 lg:after:bg-very-dark-grayish-blue lg:after:content-[''];
+}

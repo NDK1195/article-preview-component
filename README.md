@@ -4,7 +4,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Screenshot
 
-![](./images/Screenshot.jpeg)
+![](./public/Screenshot.png)
 
 ### Links
 
@@ -15,3 +15,4 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 - HTML5
 - Tailwind CSS
+- React

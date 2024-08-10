@@ -12,6 +12,9 @@ export default {
       boxShadow: {
         box: '0px 40px 40px -10px rgba(201, 213, 225, 0.50)',
       },
+      backgroundImage:{
+        image:'url("./images/drawers.jpg")'
+      }
     },
   },
   plugins: [],
