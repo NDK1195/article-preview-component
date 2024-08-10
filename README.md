@@ -8,8 +8,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/NDK1195/huddle-landing-page-with-single-introductory-section)
-- Live Site URL: [Live site URL here](https://ndk1195.github.io/huddle-landing-page-with-single-introductory-section/)
+- Solution URL: [Solution URL here](https://github.com/NDK1195/article-preview-component)
+- Live Site URL: [Live site URL here](https://article-preview-component-pied-omega.vercel.app/)
 
 ### Built with
 
